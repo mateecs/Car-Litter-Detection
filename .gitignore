@@ -1,0 +1,21 @@
+venv/
+training/
+output_video/
+input_video/
+
+models/*.pt
+
+# Ignore video files
+output/*.avi
+
+models/
+
+yolov8x.pt
+
+training/
+
+# Ignore large model and weight files
+*.pt
+
+# Ignore video files
+*.avi
