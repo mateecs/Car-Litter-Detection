@@ -87,7 +87,7 @@ class Tracker:
             #Draw waste
             for track_id, waste in waste_dict.items():
                 frame= self.draw_rectangle(frame,waste["bbox"],(0,255,0),'waste')
-
+                
             output_video_frames.append(frame)
         return output_video_frames
 
