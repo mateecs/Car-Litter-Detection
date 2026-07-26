@@ -1,11 +1,11 @@
 # 🚗 Car Litter Detection System
-<img width="2910" height="2241" alt="sys_arch" src="https://github.com/user-attachments/assets/4e4af83a-8cc4-4ebf-8613-274f0c7f7a1d" />
-
+<img width="1900" height="820" alt="ui_4" src="https://github.com/user-attachments/assets/05bda5e8-2249-463b-b7f5-09d144878312" />
 An AI-powered Computer Vision project that detects littering incidents from moving vehicles using deep learning and object detection techniques. The system is designed to identify vehicles, detect litter objects, and support environmental monitoring by providing automated evidence of roadside littering.
 
 ## 📌 Overview
 
 Illegal littering from vehicles is a major environmental challenge. This project leverages Computer Vision to automate the detection of littering events from video footage. By analyzing each frame, the system can detect vehicles, identify litter objects, and lay the foundation for intelligent monitoring systems that can assist municipalities and environmental agencies.
+<img width="2910" height="2241" alt="sys_arch" src="https://github.com/user-attachments/assets/4e4af83a-8cc4-4ebf-8613-274f0c7f7a1d" />
 
 ## ✨ Features
 
@@ -82,7 +82,7 @@ python detect.py
 * Public Safety
 * AI-powered Waste Management
 
-<img width="1900" height="820" alt="ui_4" src="https://github.com/user-attachments/assets/05bda5e8-2249-463b-b7f5-09d144878312" />
+
 
 
 ## 👨‍💻 Author
